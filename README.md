@@ -1,2 +1,4 @@
-
- hello world
+fetch&merge
+A
+B
+C
